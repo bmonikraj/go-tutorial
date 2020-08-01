@@ -18,11 +18,11 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Variadic Functions
 - [x] Closures
 - [x] Recursion
-- [ ] Pointers
-- [ ] Structs
-- [ ] Methods
-- [ ] Interfaces
-- [ ] Errors
+- [x] Pointers
+- [x] Structs
+- [x] Methods
+- [x] Interfaces
+- [x] Errors
 - [ ] Goroutines
 - [ ] Channels
 - [ ] Channel Buffering
