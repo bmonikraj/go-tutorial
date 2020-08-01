@@ -9,13 +9,13 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] For
 - [x] If/Else
 - [x] Switch
-- [ ] Arrays
-- [ ] Slices
-- [ ] Maps
-- [ ] Range
-- [ ] Functions
-- [ ] Multiple Return Values
-- [ ] Variadic Functions
+- [x] Arrays
+- [x] Slices
+- [x] Maps
+- [x] Range
+- [x] Functions
+- [x] Multiple Return Values
+- [x] Variadic Functions
 - [ ] Closures
 - [ ] Recursion
 - [ ] Pointers
