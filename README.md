@@ -16,8 +16,8 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Functions
 - [x] Multiple Return Values
 - [x] Variadic Functions
-- [ ] Closures
-- [ ] Recursion
+- [x] Closures
+- [x] Recursion
 - [ ] Pointers
 - [ ] Structs
 - [ ] Methods
