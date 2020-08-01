@@ -23,16 +23,16 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Methods
 - [x] Interfaces
 - [x] Errors
-- [ ] Goroutines
-- [ ] Channels
-- [ ] Channel Buffering
-- [ ] Channel Synchronization
-- [ ] Channel Directions
-- [ ] Select
-- [ ] Timeouts
-- [ ] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
+- [x] Goroutines
+- [x] Channels
+- [x] Channel Buffering
+- [x] Channel Synchronization
+- [x] Channel Directions
+- [x] Select
+- [x] Timeouts
+- [x] Non-Blocking Channel Operations
+- [x] Closing Channels
+- [x] Range over Channels
 - [ ] Timers
 - [ ] Tickers
 - [ ] Worker Pools
