@@ -33,11 +33,11 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Non-Blocking Channel Operations
 - [x] Closing Channels
 - [x] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] WaitGroups
-- [ ] Rate Limiting
+- [x] Timers
+- [x] Tickers
+- [x] Worker Pools
+- [x] WaitGroups
+- [x] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
 - [ ] Stateful Goroutines
