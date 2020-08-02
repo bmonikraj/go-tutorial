@@ -38,27 +38,27 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Worker Pools
 - [x] WaitGroups
 - [x] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
-- [ ] Stateful Goroutines
-- [ ] Sorting
-- [ ] Sorting by Functions
-- [ ] Panic
-- [ ] Defer
-- [ ] Collection Functions
-- [ ] String Functions
-- [ ] String Formatting
-- [ ] Regular Expressions
-- [ ] JSON
-- [ ] XML
-- [ ] Time
-- [ ] Epoch
-- [ ] Time Formatting / Parsing
-- [ ] Random Numbers
-- [ ] Number Parsing
-- [ ] URL Parsing
-- [ ] SHA1 Hashes
-- [ ] Base64 Encoding
+- [x] Atomic Counters
+- [x] Mutexes
+- [x] Stateful Goroutines
+- [x] Sorting
+- [x] Sorting by Functions
+- [x] Panic
+- [x] Defer
+- [x] Collection Functions
+- [x] String Functions
+- [x] String Formatting
+- [x] Regular Expressions
+- [x] JSON
+- [x] XML
+- [x] Time
+- [x] Epoch
+- [x] Time Formatting / Parsing
+- [x] Random Numbers
+- [x] Number Parsing
+- [x] URL Parsing
+- [x] SHA1 Hashes
+- [x] Base64 Encoding
 - [ ] Reading Files
 - [ ] Writing Files
 - [ ] Line Filters
