@@ -66,14 +66,14 @@ A big shout-out to [GoByExample](https://gobyexample.com/) by [Mark McGranaghan]
 - [x] Directories
 - [x] Temporary Files and Directories
 - [x] Testing
-- [ ] Command-Line Arguments
-- [ ] Command-Line Flags
-- [ ] Command-Line Subcommands
-- [ ] Environment Variables
-- [ ] HTTP Clients
-- [ ] HTTP Servers
-- [ ] Context
-- [ ] Spawning Processes
-- [ ] Exec'ing Processes
-- [ ] Signals
-- [ ] Exit
+- [x] Command-Line Arguments
+- [x] Command-Line Flags
+- [x] Command-Line Subcommands
+- [x] Environment Variables
+- [x] HTTP Clients
+- [x] HTTP Servers
+- [x] Context
+- [x] Spawning Processes
+- [x] Exec'ing Processes
+- [x] Signals
+- [x] Exit
